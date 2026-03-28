@@ -1,0 +1,5 @@
+2. Demonstrate the process of pushing a local repository to GitHub
+Ans.
+
+step 1: first create repository in git GitHub
+step 2: now open local terminal in that 
